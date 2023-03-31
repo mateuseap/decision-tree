@@ -14,6 +14,18 @@ git clone https://github.com/mateuseap/decision-tree
 cd decision-tree
 ```
 
+## 🚀 Como rodar o projeto
+
+Após ter clonado o repositório e entrado no diretório raíz, execute os seguintes comantos:
+
+```bash
+cd src
+python -m venv dt-venv
+.\dt-venv\Scripts\activate
+pip install -r requirements.txt
+python -m ipykernel install --user --name=dt-venv
+```
+
 ## 👥 Group
 
 - [Guilherme Morone (gma2)](https://github.com/guimorone)
