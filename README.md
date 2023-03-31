@@ -14,9 +14,9 @@ git clone https://github.com/mateuseap/decision-tree
 cd decision-tree
 ```
 
-## 🚀 Como rodar o projeto
+## 🚀 How to run
 
-Após ter clonado o repositório e entrado no diretório raíz, execute os seguintes comantos:
+After you've cloned the repository and entered in the root directory, run the following commands:
 
 ```bash
 cd src
